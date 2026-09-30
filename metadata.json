@@ -1,0 +1,6 @@
+{
+  "name": "Prakriti Soap — Handcrafted Natural Skincare",
+  "description": "Natural Care • Handcrafted with Love. Discover Prakriti Soap's artisanal Charcoal Chandan and Rose Goat Milk soaps crafted for everyday natural skin nourishment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
